@@ -1,0 +1,39 @@
+---
+layout: single
+title: "Research"
+permalink: /research/
+author_profile: true
+---
+
+## Published
+
+**Narrative Affordances: What Stories Can and Cannot Do**  
+*Academy of Management Annals*, 2025  
+
+A review of 40 years of management research theorizing what narratives can and cannot accomplish for core organizational functions — including sensemaking, legitimacy, and coordination — and the limits that constrain them.
+
+---
+
+## Under Review
+
+**Not All Good Stories Make Good Investments: Why Symbols Need Substance to Be Credible and Legitimating**  
+
+Qualitative analysis of entrepreneur-investor interactions at three pitch events. Develops hypotheses about when stories strengthen versus undermine credibility — arguing that stories help or hurt depending on whether investors perceive them as complements or substitutes for evidence.
+
+**[Title withheld for review] — Persuasion and Coordination in Financial Markets**  
+*With Georg Rilinger (equal authorship)*  
+
+Examines how activist short sellers structure narrative reports to catalyze stock sell-offs. Contrary to prior research, finds that effective reports are sprawling and rhetorically elaborate rather than concise. Identifies a tradeoff between communication structures that persuade versus those that coordinate investor behavior.
+
+---
+
+## Working Papers
+
+**Short Sellers as Strangers: Institutional Conditions of Outsider Innovation** *(working title)*  
+*With Georg Rilinger*
+
+**From Defense to Offense: The De-Stigmatization of Dual-Use Entrepreneurship and Investing** *(working title)*  
+*With Fiona Murray. Status: Data collection.*
+
+**Can Public Entrepreneurship Programs Create Jobs Outside of Dominant Ecosystems?**  
+*With Ethan Poskanzer. Status: Data collection.*
