@@ -107,15 +107,27 @@ hr {
   border-color: #e0e0e0 !important;
 }
 
-/* ── FIX WHITE BOX IN MASTHEAD ── */
-.masthead__inner-wrap {
+/* ── NUCLEAR MASTHEAD FIX ── */
+.masthead,
+.masthead__inner-wrap,
+.greedy-nav,
+.greedy-nav .visible-links,
+.greedy-nav .visible-links li,
+.greedy-nav .visible-links li a,
+.site-title {
+  background: #a31f34 !important;
   background-color: #a31f34 !important;
-  padding: 0 1rem !important;
 }
 
-.greedy-nav .visible-links {
-  background-color: #a31f34 !important;
-  margin-left: auto !important;
+.greedy-nav .visible-links li a,
+.site-title,
+.site-title:visited {
+  color: #ffffff !important;
+}
+
+.masthead {
+  box-shadow: none !important;
+  border: none !important;
 }
 
 .greedy-nav button {
@@ -123,8 +135,12 @@ hr {
   color: #ffffff !important;
 }
 
-.site-title,
-.site-title:visited {
-  color: #ffffff !important;
-  background: transparent !important;
+/* ── NAV LINKS RIGHT-ALIGNED ── */
+.greedy-nav .visible-links {
+  margin-left: auto !important;
+}
+
+/* ── HIDE IE WARNING BAR ── */
+.notice--danger {
+  display: none !important;
 }
