@@ -4,7 +4,7 @@ title: ""
 author_profile: true
 ---
 
-**On the job market · 2025–2026**
+**On the job market · 2026–2027**
 
 I am a doctoral candidate in Economic Sociology at the MIT Sloan School of Management. My research examines how entrepreneurs and organizations use narratives to persuade and coordinate stakeholders, with empirical work in private equity and financial markets.
 
