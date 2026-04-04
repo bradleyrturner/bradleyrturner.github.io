@@ -106,3 +106,25 @@ a:hover {
 hr {
   border-color: #e0e0e0 !important;
 }
+
+/* ── FIX WHITE BOX IN MASTHEAD ── */
+.masthead__inner-wrap {
+  background-color: #a31f34 !important;
+  padding: 0 1rem !important;
+}
+
+.greedy-nav .visible-links {
+  background-color: #a31f34 !important;
+  margin-left: auto !important;
+}
+
+.greedy-nav button {
+  background-color: #a31f34 !important;
+  color: #ffffff !important;
+}
+
+.site-title,
+.site-title:visited {
+  color: #ffffff !important;
+  background: transparent !important;
+}
