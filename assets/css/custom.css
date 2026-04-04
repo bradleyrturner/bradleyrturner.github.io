@@ -136,8 +136,20 @@ hr {
 }
 
 /* ── NAV LINKS RIGHT-ALIGNED ── */
+.greedy-nav {
+  display: flex !important;
+  align-items: center !important;
+  justify-content: space-between !important;
+}
+
 .greedy-nav .visible-links {
   margin-left: auto !important;
+  flex: 0 0 auto !important;
+}
+
+.site-title {
+  flex: 0 0 auto !important;
+  margin-right: auto !important;
 }
 
 /* ── HIDE IE WARNING BAR ── */
