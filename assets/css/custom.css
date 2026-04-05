@@ -156,3 +156,9 @@ hr {
 .notice--danger {
   display: none !important;
 }
+
+/* ── SITE TITLE LEFT ── */
+.greedy-nav .site-title {
+  margin-right: auto !important;
+  order: -1 !important;
+}
