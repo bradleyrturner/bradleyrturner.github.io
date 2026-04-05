@@ -12,12 +12,18 @@ h1, h2, h3, h4, .site-title {
 /* ── MASTHEAD / NAV ── */
 .masthead,
 .masthead__inner-wrap,
-.greedy-nav {
+.greedy-nav,
+.greedy-nav .visible-links,
+.greedy-nav .visible-links li,
+.greedy-nav .visible-links li a,
+.site-title {
+  background: #a31f34 !important;
   background-color: #a31f34 !important;
   border-bottom: none !important;
 }
 
-.site-title {
+.site-title,
+.site-title:visited {
   color: #ffffff !important;
   font-family: 'Source Serif 4', serif !important;
   font-weight: 400 !important;
@@ -43,6 +49,27 @@ h1, h2, h3, h4, .site-title {
 
 .greedy-nav .visible-links a:before {
   background: #ffffff !important;
+}
+
+.masthead {
+  box-shadow: none !important;
+  border: none !important;
+}
+
+.greedy-nav button {
+  background-color: #a31f34 !important;
+  color: #ffffff !important;
+}
+
+/* ── NAV LINKS RIGHT-ALIGNED ── */
+.greedy-nav {
+  display: flex !important;
+  align-items: center !important;
+}
+
+.greedy-nav .visible-links {
+  margin-left: auto !important;
+  flex: 0 0 auto !important;
 }
 
 /* ── JOB MARKET BADGE ── */
@@ -107,58 +134,7 @@ hr {
   border-color: #e0e0e0 !important;
 }
 
-/* ── NUCLEAR MASTHEAD FIX ── */
-.masthead,
-.masthead__inner-wrap,
-.greedy-nav,
-.greedy-nav .visible-links,
-.greedy-nav .visible-links li,
-.greedy-nav .visible-links li a,
-.site-title {
-  background: #a31f34 !important;
-  background-color: #a31f34 !important;
-}
-
-.greedy-nav .visible-links li a,
-.site-title,
-.site-title:visited {
-  color: #ffffff !important;
-}
-
-.masthead {
-  box-shadow: none !important;
-  border: none !important;
-}
-
-.greedy-nav button {
-  background-color: #a31f34 !important;
-  color: #ffffff !important;
-}
-
-/* ── NAV LINKS RIGHT-ALIGNED ── */
-.greedy-nav {
-  display: flex !important;
-  align-items: center !important;
-  justify-content: space-between !important;
-}
-
-.greedy-nav .visible-links {
-  margin-left: auto !important;
-  flex: 0 0 auto !important;
-}
-
-.site-title {
-  flex: 0 0 auto !important;
-  margin-right: auto !important;
-}
-
 /* ── HIDE IE WARNING BAR ── */
 .notice--danger {
   display: none !important;
-}
-
-/* ── SITE TITLE LEFT ── */
-.greedy-nav .site-title {
-  margin-right: auto !important;
-  order: -1 !important;
 }
