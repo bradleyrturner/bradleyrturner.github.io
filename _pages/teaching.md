@@ -13,6 +13,7 @@ Courses in strategy, leadership, and research design. Served as TA for Sloan's E
 ## Syracuse University
 
 **Course Designer and Instructor** · 2019 - 2020
+
 Designed and taught an undergraduate elective at my alma mater.
 
 ---
