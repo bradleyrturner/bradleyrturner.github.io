@@ -23,7 +23,7 @@ Scholars tend to view narratives as heuristics that reduce complexity. Clear, co
 
 **Activist Short Sellers and the Contestation of Consensus** *(working title)*  
 
-This paper explores how professionals cultivate identities to contest consensus. I develop a 35-year case study of activist short selling (1990–2025) and analyze interviews with practitioners to explore how professionals cultivate identity to exploit market failures. I find that successful intervention in a field may depend not on assimilation, but on a strategic hybridization of technical competence and behavioral defiance.
+This paper explores how professionals cultivate identities to contest consensus. I use archival data, including coverage by the mainstream and financial press, to construct a 35-year case study of activist short selling (1990–2025), and use 18 interviews to explore how professionals cultivate identity to exploit market failures. I find that successful intervention in a field may depend not on assimilation, but on a strategic hybridization of technical competence and behavioral defiance.
 
 **Stories Within Stories: How Entrepreneurs' Concrete Anecdotes Enhance Versus Undermine Credibility** *(working title)*    
 
