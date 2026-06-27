@@ -16,7 +16,7 @@ I review of 40 years of management research to explore what narratives can accom
 
 ## Preparing for Submission
 
-**Narrative Strategy Under Uncertainty** *(working title)*    
+**When Short Stories Are Long: Narrative Strategy Under Uncertainty** *(working title)*    
 *With Georg Rilinger (equal authorship)*  
 
 Scholars tend to view narratives as heuristics that reduce complexity. Clear, consistent, and well-supported stories are seen as most effective in shaping market valuation. Yet activist short sellers, financial-market contrarians who depend on rapid market revaluations, often publish layered, rhetorically complex reports with mixed evidence. In this paper we explore why, leveraging qualitative coding and machine learning to analyze over 700 reports, financial data, media coverage and interviews with activist short sellers. We theorize about strategic communication under uncertainty and contribute to research on classification, valuation, and narrative.
