@@ -23,7 +23,7 @@ Scholars tend to view narratives as heuristics that reduce complexity. Clear, co
 
 **Contesting Consensus: Activist Short Sellers' Identity as a Resource** *(working title)*  
 
-This paper explores how professionals contest consensus. I use interviews and archival data, including coverage by the mainstream and financial press, to construct a 35-year case study of activist short selling (1990–2025).
+I explore how professionals contest consensus leveraging interviews and media coverage to construct a 35-year case study of activist short selling (1990–2025). 
 
 **Stories Within Stories: How Entrepreneurs' Concrete Anecdotes Enhance Versus Undermine Credibility** *(working title)*    
 
