@@ -18,7 +18,7 @@ I review of 40 years of management research to explore what narratives can accom
 **Contesting Consensus: Activist Short Sellers' Identity as a Resource** *(working title)*  
 *With Georg Rilinger*  
 
-I explore how professionals contest consensus, using interviews and media coverage to construct a 40-year case study of activist short selling (1995–2024). 
+We explore how professionals contest consensus, using interviews and media coverage to construct a 40-year case study of activist short selling (1995–2024). 
 
 ## Preparing for Submission
 
