@@ -13,6 +13,11 @@ author_profile: true
 I review of 40 years of management research to explore what narratives can accomplish for core organizational functions — making meaning, persuading, sharing, and coordinating — and the limits that constrain them.
 
 ---
+## Under Review
+
+**Contesting Consensus: Activist Short Sellers' Identity as a Resource** *(working title)*  
+
+I explore how professionals contest consensus, using interviews and media coverage to construct a 40-year case study of activist short selling (1995–2024). 
 
 ## Preparing for Submission
 
@@ -20,10 +25,6 @@ I review of 40 years of management research to explore what narratives can accom
 *With Georg Rilinger (equal authorship)*  
 
 Scholars tend to view narratives as heuristics that reduce complexity. Clear, consistent, and well-supported stories are seen as most effective in shaping market valuation. Yet activist short sellers, financial-market contrarians who depend on rapid market revaluations, often publish layered, rhetorically complex reports with mixed evidence. In this paper we explore why, leveraging qualitative coding and machine learning to analyze over 700 reports, financial data, media coverage and interviews with activist short sellers. We theorize about strategic communication under uncertainty and contribute to research on classification, valuation, and narrative.
-
-**Contesting Consensus: Activist Short Sellers' Identity as a Resource** *(working title)*  
-
-I explore how professionals contest consensus leveraging interviews and media coverage to construct a 35-year case study of activist short selling (1990–2025). 
 
 **Stories Within Stories: How Entrepreneurs' Concrete Anecdotes Enhance Versus Undermine Credibility** *(working title)*    
 
