@@ -22,7 +22,7 @@ We explore how professionals contest consensus, using interviews and media cover
 
 ## Preparing for Submission
 
-**When Short Stories Are Long: Narrative Strategy Under Uncertainty** *(working title)*    
+**The Art of the Short Story: Second-Order Inference and Rhetorical Fit in Strategic Communicationy** *(working title)*    
 *With Georg Rilinger (equal authorship)*  
 
 Scholars tend to view narratives as heuristics that reduce complexity. Clear, consistent, and well-supported stories are seen as most effective in shaping market valuation. Yet activist short sellers, financial-market contrarians who depend on rapid market revaluations, often publish layered, rhetorically complex reports with mixed evidence. In this paper we explore why, leveraging qualitative coding and machine learning to analyze 830 reports, as well as financial data, social and mainstream media response, and interviews with activist short sellers. We theorize about strategic communication under uncertainty and contribute to research on classification, valuation, and narrative.
