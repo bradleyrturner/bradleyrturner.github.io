@@ -5,12 +5,17 @@ permalink: /teaching/
 author_profile: true
 ---
 
+## Overview
+
+My goal as a teacher is to create dynamic, interactive classrooms using the case method and active learning to build community, creative thinking, and learning by doing. I have taught and mentored more than 500 students, from undergraduates to executives. I am prepared to teach courses in organizational behavior and change, leadership, strategy, and entrepreneurship.
+
 ## MIT Sloan School of Management
 
 **Teaching Assistant** · 2020 – 2026  
-- Courses across strategy, leadership, and entrepreneurship; and students from undergraduates to executives.
-- Served as TA for Sloan's EMBA Hackathon for three years, presenting to and mentoring Executive MBA students.
-- Prepared to teach courses in organizational behavior and change, leadership, strategy, and entrepreneurship.
+- Six courses across strategy, leadership, research design, and entrepreneurship.
+- Three years as sole TA for Sloan's EMBA Hackathon (IDEA Week), in which 130 executives build ventures in six dates; organized an annual visit to 30 MIT research labs, lectured on assignments, and mentored teams.
+- TA for *Choice Points*, a leadership course for Sloan Fellows built around works of literature.
+
 
 ## Credentials & Service
 
