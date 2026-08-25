@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-My goal as a teacher is to create dynamic, interactive classrooms using the case method and active learning to build community, creative thinking, and learning by doing. I have taught and mentored more than 500 students, from undergraduates to executives. I am prepared to teach courses in organizational behavior and change, entrepreneurship, leadership, and strategy.
+My goal as a teacher is to create dynamic, interactive classrooms using the case method and active learning to build community, creative thinking, and learning by doing. I am prepared to teach courses in organizational behavior and change, entrepreneurship, leadership, and strategy to students ranging from undergraduates to executives.
 
 ## MIT Sloan School of Management
 
