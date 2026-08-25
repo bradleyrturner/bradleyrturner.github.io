@@ -40,7 +40,6 @@ author_profile: true
 </details>
 
 <br>
-
 **Stories In Stories: Why Anecdotes Strengthen or Undermine Entrepreneurs' Credibility**  
 *Solo-authored*
 
