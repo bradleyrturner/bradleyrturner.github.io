@@ -21,7 +21,9 @@ research.</p>
 ## Under Review
 
 **Cultivating Outsiderness: How Activist Short Sellers Turn Outsider Identity Into a Resource** 
+
 *Job Market Paper*  
+
 *With Georg Rilinger*  
 
 <details>
@@ -39,6 +41,7 @@ research.</p>
 <p>Why do activist short sellers publish sprawling, theatrical reports, even though existing theory suggests that focused, conventional narratives are best suited to coordinate the actions of investors? To answer this question, our abductive study combines computational analysis of 830 reports targeting U.S.-listed firms (2008&ndash;2024) with 21 practitioner interviews, market data, and audience reception evidence. The corpus reveals that report architecture tracks the evaluative environment: tone reflects house style, but rhetorical breadth rises with evaluative uncertainty and, among broad reports, narrative integration rises with pre-campaign volatility, our indicator of active contestation. Interviews reveal the logic behind these patterns. Sellers anticipate not how &ldquo;the market&rdquo; will respond (third-order inference) but how specific audiences will react in sequence
 (second-order inference). When audiences share an evaluative standard, the two coincide and focused reports suffice. When standards diverge, modular reports make competing standards and their audiences visible; when uncertainty coincides with active contestation, integrated reports bind these lines into an overarching narrative that is easier to grasp and transmit. Both departures sacrifice genre conformity, so sellers reserve them for audiences that focus cannot coordinate. Comparing our explanation&mdash;rhetorical fit&mdash;with accepted alternatives, we develop a more general account of coordination in valuation processes: the focused signal of focal-point theory is the special case of aligned standards, and rhetorical complexity enables second-order inference where shared standards are absent.</p>
 </details>
+
 
 **Stories In Stories: Why Anecdotes Strengthen or Undermine Entrepreneurs' Credibility** *(working title)*    
 
