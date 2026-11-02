@@ -23,7 +23,7 @@ My goal as a teacher is to create dynamic, interactive classrooms using the case
 
 ## Syracuse University
 
-**Instructor** · 2019 - 2020  
+**Instructor** · 2018 - 2019  
 - Designed and taught an undergraduate elective for the Renée Crown University Honors Program.
 
 ---
