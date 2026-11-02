@@ -17,7 +17,7 @@ author_profile: true
 
 ---
 
-## Under Review
+## Revise & Resubmit
 
 **Cultivating Outsiderness: How Activist Short Sellers Turn Outsider Identity Into a Resource**  
 *Job Market Paper · With Georg Rilinger*
@@ -53,6 +53,9 @@ author_profile: true
 
 **From Defense to Offense: The De-Stigmatization of Dual-Use Entrepreneurship and Investing** *(working title)*  
 *With Fiona Murray · Data collection*
+
+**Scaling interpretive qualitative coding with language models** *(methods paper)*  
+*With Georg Rilinger · Under review*
 
 **Entrepreneurship as Economic Development: A Causal Evaluation of a Rural, State-Sponsored Accelerator and Pitch Competition** *(working title)*  
 *With Ethan Poskanzer · Data collection*
