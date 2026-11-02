@@ -6,9 +6,9 @@ author_profile: true
 
 <span class="jm-badge">On the Job Market · 2026–2027</span>
 
-I am a doctoral candidate in Economic Sociology at the MIT Sloan School of Management, studying narrative and counter-narrative in markets: the stories entrepreneurs tell to win backing, and the stories contrarians tell to puncture hype.
+I am a doctoral candidate in Economic Sociology at the MIT Sloan School of Management. I study how entrepreneurs, investors, and market activists build credibility and mobilize resources under uncertainty, and how governments harness and regulate those efforts.
 
-My dissertation centers on activist short sellers, investors who publish reports alleging that a public company is overvalued or fraudulent. Drawing on organization theory and economic sociology, I show how outsiders build credibility and influence without being absorbed by the institutions they contest. My job market paper is under revise-and-resubmit at *Research Policy*, and my review of narrative research appears in the *Academy of Management Annals* (2025).
+My dissertation centers on activist short sellers, investors who publish reports alleging that a public company is overvalued or fraudulent. Drawing on organization theory and economic sociology, I show how outsiders use identity and narrative to build credibility and influence without being absorbed by the institutions they contest. My job market paper is under revise-and-resubmit at *Research Policy*, and my review of narrative research appears in the *Academy of Management Annals* (2025).
 
 My research investigates:
 
