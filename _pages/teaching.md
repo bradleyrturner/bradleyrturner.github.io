@@ -12,7 +12,7 @@ My goal as a teacher is to create dynamic, interactive classrooms using the case
 **Teaching Assistant** · 2020 – 2026  
 - Six courses across strategy, leadership, research design, and entrepreneurship.
 - Student ratings across courses: 5.8 – 6.7 out of 7.
-- Three years as sole TA for Sloan's EMBA Hackathon (IDEA Week), in which 130 executives build ventures in six dayss; organized an annual visit to 30 MIT research labs, lectured on assignments, and mentored teams.
+- Three years as sole TA for Sloan's EMBA Hackathon (IDEA Week), in which 130 executives build ventures in six days; organized an annual visit to 30 MIT research labs, lectured on assignments, and mentored teams.
 
 
 ## Credentials & Service
