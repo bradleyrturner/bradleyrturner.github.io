@@ -20,7 +20,7 @@ author_profile: true
 ## Revise & Resubmit
 
 **Cultivating Outsiderness: How Activist Short Sellers Turn Outsider Identity Into a Resource**  
-*Job Market Paper · With Georg Rilinger*
+*Job Market Paper · With Georg Rilinger · Revise & resubmit, Research Policy*
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -32,7 +32,7 @@ author_profile: true
 ## Preparing for Submission
 
 **The Art of the Short Story: Second-Order Inference and Rhetorical Fit in Strategic Communication**  
-*With Georg Rilinger (equal authorship)*
+*With Georg Rilinger (equal authorship) · Preparing for submission to Organization Science*
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -40,7 +40,7 @@ author_profile: true
 </details>
 <br>
 **Stories In Stories: Why Anecdotes Strengthen or Undermine Entrepreneurs' Credibility**  
-*Solo-authored*
+*Solo-authored · Preparing for submission to Strategic Management Journal*
 
 <details>
 <summary><strong>Abstract</strong></summary>
